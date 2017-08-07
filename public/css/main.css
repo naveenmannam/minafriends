@@ -1,0 +1,10 @@
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	min-height: 45px;
+}
+
+footer p {
+	padding-top: 10px;
+}
